@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509230005950",
+    "project_id": "collegemanagementsystem-199310"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509230005950:android:b9a8b6aa4263aff3",
+        "android_client_info": {
+          "package_name": "tech.codiumclub.collegeManagementSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509230005950-gt7ocevpm57p7t583vg33d1rl5k2gsra.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "509230005950-locpq4ggp3i5ecd0pqbibe7qtjgk1glt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.webguides.collegeManagementSystem",
+            "certificate_hash": "93d2f1a917c03d649f67110787052848051a65c5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7FSyCAnrx2QZYMV6mqoB3XGS_8fBXZIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
